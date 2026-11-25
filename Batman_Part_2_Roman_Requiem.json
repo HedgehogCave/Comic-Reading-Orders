@@ -1,0 +1,58 @@
+{
+  "title": "Batman Part 2 - Roman Requiem",
+  "description": "",
+  "artist": "Jeph Loeb",
+  "author": "Tim Sale",
+  "cover": "",
+  "chapters": {
+    "02": {
+      "title": "Haunted Knight - Fears #2",
+      "last_updated": "1795633327",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/pg73z5dwo4r"
+      }
+    },
+    "03": {
+      "title": "Haunted Knight - Fears #3",
+      "last_updated": "1795633331",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/ljyqnrazxy2"
+      }
+    },
+    "04": {
+      "title": "Haunted Knight - Madness #1",
+      "last_updated": "1795633332",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/6eyrpma8l4p"
+      }
+    },
+    "01": {
+      "title": "Haunted Knight - Fears #1",
+      "last_updated": "1795633339",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9rydv6qa6yk"
+      }
+    },
+    "07.5": {
+      "title": "Haunted Knight - Gallery",
+      "last_updated": "1795633362",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/9249op2g84n"
+      }
+    },
+    "06": {
+      "title": "Haunted Knight - Madness #3",
+      "last_updated": "1795633365",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/m9yxz89267q"
+      }
+    },
+    "09": {
+      "title": "The Long Halloween #2 - Thanksgiving",
+      "last_updated": "1795633414",
+      "groups": {
+        "SkywayOctane": "/proxy/api/imgchest/chapter/md7o6qael7p"
+      }
+    }
+  }
+}
